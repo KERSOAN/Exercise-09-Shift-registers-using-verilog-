@@ -64,9 +64,6 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 
 
 ```
-
-
-
 ### PROGRAM 
 
 
@@ -117,15 +114,7 @@ po=pi;
 end
 endmodule 
 
-
-
-
-
-
-
 ```
-
-
 ### RTL LOGIC  REGISTERS   
 
 
